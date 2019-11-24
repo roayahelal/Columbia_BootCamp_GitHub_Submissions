@@ -1,0 +1,7 @@
+Observations based on the data:
+
+In this specific District;
+
+1) Overall passing rates of Charter schools is significantly higher than that of District schools, around 29% higher. There is more evidence on this by seeing that the top 5 schools are all Charter schools and the bottom 5 schools are all District schools
+
+2)Overall, students in this district perform better in reading than they do in Math. However, district schools seem to have a larger variance between Math and Reading scores 
